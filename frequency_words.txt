@@ -1,6 +1,18 @@
 胖东来
 于东来
 
+开发
+编码
+程序员
+coding
+agent
+c++
+cpp
+vs
+
+vps
+主机
+
 DeepSeek
 梁文锋
 
@@ -30,10 +42,6 @@ HarmonyOS
 郭帆
 三体
 刘慈欣
-
-米哈游
-原神
-星穹铁道
 
 京东
 刘强东
