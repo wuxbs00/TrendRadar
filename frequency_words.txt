@@ -8,7 +8,7 @@ coding
 agent
 c++
 cpp
-vs
+ide
 
 vps
 主机
